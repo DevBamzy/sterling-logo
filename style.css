@@ -1,0 +1,30 @@
+div {
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    border-style: solid;
+    margin-left: 500px;
+    background-color: red;
+    border-color: red;
+}
+.span2 {
+    border-radius: 100px;
+    /* height: 50px; */
+    /* width:50px; */
+    border-style: solid;
+   border: 2px;
+   border-color: white;
+   background-color: white;
+   margin-left: 85px;
+   padding-left: 30px;
+   
+   padding-bottom: 20px;
+}
+.span3 {
+    margin-left: 170px;
+    margin-top: 1000px;
+    padding-top: 100px;
+    font-weight: 900;
+    font-size: x-large;
+
+}
